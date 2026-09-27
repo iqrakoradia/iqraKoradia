@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="118" viewBox="0 0 1200 118" role="img" aria-labelledby="title desc">
-  <title id="title">Turning data into direction</title>
-  <desc id="desc">A luminous animated data line beneath the words, one good question at a time.</desc>
+  <title id="title">Ideas, made possible</title>
+  <desc id="desc">A luminous animated signal line beneath the promise: from first brief to launch.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#17142B"/><stop offset=".55" stop-color="#241A37"/><stop offset="1" stop-color="#121B29"/></linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B99AFF"/><stop offset=".5" stop-color="#FF9DB8"/><stop offset="1" stop-color="#86E6D1"/></linearGradient>
@@ -10,8 +10,8 @@
   <path d="M44 82 H225 L255 64 H465 L498 75 H695 L735 47 H920 L950 61 H1152" fill="none" stroke="url(#line)" stroke-width="2" stroke-dasharray="5 8" stroke-linecap="round">
     <animate attributeName="stroke-dashoffset" values="0;-78" dur="5s" repeatCount="indefinite"/>
   </path>
-  <text x="600" y="52" text-anchor="middle" fill="#FBF7FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="21" font-weight="650">Turning data into direction</text>
-  <text x="600" y="76" text-anchor="middle" fill="#C7BADF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2">ONE GOOD QUESTION AT A TIME</text>
+  <text x="600" y="52" text-anchor="middle" fill="#FBF7FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="21" font-weight="650">Ideas, made possible</text>
+  <text x="600" y="76" text-anchor="middle" fill="#C7BADF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2">FROM FIRST BRIEF TO LAUNCH</text>
   <circle cx="225" cy="82" r="3" fill="#B99AFF"><animate attributeName="r" values="3;7;3" dur="2.6s" repeatCount="indefinite"/></circle>
   <circle cx="735" cy="47" r="3" fill="#FF9DB8"><animate attributeName="r" values="3;7;3" dur="2.6s" begin=".8s" repeatCount="indefinite"/></circle>
   <circle cx="1152" cy="61" r="3" fill="#86E6D1"><animate attributeName="r" values="3;7;3" dur="2.6s" begin="1.6s" repeatCount="indefinite"/></circle>
