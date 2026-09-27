@@ -16,7 +16,17 @@
 
 ### Hey, I’m Iqra 👋
 
-I’m a **data analyst and product-minded developer** who enjoys finding the story in messy data—and building experiences people actually want to use. My work sits at the intersection of **business intelligence, software, and fashion-tech**.
+I’m a **data analyst and product-minded developer**, and the **Founder of Will & Way**—a creative technology studio building custom full-stack web platforms, mobile applications, and data-driven digital products for startups and growing businesses.
+
+### ✦ Founder · Will & Way
+
+**Will & Way · Full-time** · Sep 2026–Present · Mumbai, Maharashtra, India · Remote
+
+I co-founded a global creative technology studio delivering digital products for startups and growing businesses.
+
+- Lead end-to-end product execution, translating early briefs into production-ready **React, Next.js, and Node.js** applications.
+- Work across UI/UX integration, database architecture, API engineering, and client strategy.
+- Partner with founders on digital product roadmaps, performance improvements, and white-label development.
 
 > **My kind of workflow:** understand the question → shape the data → find the signal → make the insight useful.
 
@@ -70,7 +80,7 @@ I’m a **data analyst and product-minded developer** who enjoys finding the sto
 ### ✧ My toolkit
 
 **Analytics & BI**　`Excel` `SQL` `Python` `Pandas` `Power BI` `Tableau` `EDA` `KPI reporting`<br />
-**Build & visualize**　`JavaScript` `React` `Node.js` `MongoDB` `REST APIs` `Matplotlib`<br />
+**Build & visualize**　`JavaScript` `React` `Next.js` `Node.js` `MongoDB` `REST APIs` `Matplotlib`<br />
 **Explore**　`Customer analytics` `Business intelligence` `Product strategy` `Computer vision`
 
 ### ✦ A little about me
@@ -82,8 +92,22 @@ I’m a **data analyst and product-minded developer** who enjoys finding the sto
 
 ---
 
+### ✉️ Connect with me
+
+<div align="center">
+  <a href="mailto:iqra.willandway@gmail.com"><img src="./assets/iqra-badge-email.svg" alt="Email Iqra" height="48" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/iqra-koradia-728938267/"><img src="./assets/iqra-badge-linkedin.svg" alt="Connect on LinkedIn" height="48" /></a>
+  <br />
+  <a href="mailto:iqra.willandway@gmail.com">iqra.willandway@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/iqra-koradia-728938267/">LinkedIn</a>
+</div>
+
+---
+
 <div align="center">
   <img src="./assets/iqra-footer.svg" alt="Turning data into direction — one good question at a time" width="100%" />
   <br />
-  <sub>Thanks for stopping by. Have a project where data meets a real-world problem? <a href="https://github.com/iqrakoradia">Let’s connect on GitHub ↗</a></sub>
+  <sub>Thanks for stopping by. Have a project where data meets a real-world problem? <a href="https://www.linkedin.com/in/iqra-koradia-728938267/">Let’s connect ↗</a></sub>
 </div>
