@@ -1,202 +1,75 @@
-# Hi, I'm Iqra Koradia 👋
+<div align="center">
+  <img src="./assets/iqra-hero.svg" alt="Iqra Koradia — Data x Style, turning signals into stories" width="100%" />
+</div>
 
-### Data Analyst | Business Intelligence | Data Visualization | Business Strategy
+<div align="center">
+  <a href="https://github.com/iqrakoradia?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-17142B?style=for-the-badge&labelColor=17142B&color=C9A7FF" alt="Explore projects" /></a>
+  &nbsp;
+  <a href="https://github.com/iqrakoradia"><img src="https://img.shields.io/badge/OPEN-TO-COLLABORATE-17142B?style=for-the-badge&labelColor=17142B&color=FF9BB7" alt="Open to collaborate" /></a>
+</div>
 
-> Turning data into insights, insights into decisions, and decisions into measurable business impact.
+<br />
 
-I'm a data-focused professional with a background in Software Development, currently working across technology, product strategy, and business analysis.
+### Hey, I’m Iqra 👋
 
-I enjoy transforming raw datasets into clean, structured and actionable insights using **Excel, SQL, Python, Power BI and data visualization**.
+I’m a **data analyst and product-minded developer** who enjoys finding the story in messy data—and building experiences people actually want to use. My work sits at the intersection of **business intelligence, software, and fashion-tech**.
 
----
-
-## 🏆 Featured Achievement
-
-### 🥇 1st Place — Data Analytics Capstone Competition
-
-**Nykaa — E-Commerce Sales Analytics | "The Beauty of Analysis"**
-
-Built a business-focused analytics solution using approximately **5,000 transactional records** to analyze:
-
-- Customer behaviour
-- Sales performance
-- Product & category performance
-- Regional trends
-- Discounts & sale events
-- Customer segmentation
-- Membership performance
-- Returns and profitability
-
-**Tools:** Excel • Pivot Tables • Excel Functions • Data Cleaning • Data Visualization • Dashboard Development
+> **My kind of workflow:** understand the question → shape the data → find the signal → make the insight useful.
 
 ---
 
-## 📊 Featured Projects
+### ✦ A few things I’ve made
 
-### 🥇 Nykaa — E-Commerce Sales Analytics
-
-**Business Intelligence | Excel | Data Visualization**
-
-A complete e-commerce analytics project focused on understanding sales, customers, products, profitability and business performance.
-
-**Key Work:**
-- Data cleaning and validation
-- Duplicate and missing-value handling
-- Date and text standardization
-- Calculated fields
-- KPI development
-- Pivot table analysis
-- Customer segmentation
-- Interactive dashboard
-- Business recommendations
-
-**Business Focus:**
-Customer Retention • Profitability • Discount Optimization • Product Performance • Regional Analysis
-
----
-
-### Huda Beauty — Sales Analytics Dashboard
-
-**Excel | Power Query | Pivot Tables | Charts | Slicers**
-
-Built a sales analytics dashboard to analyze:
-
-- Sales
-- Revenue
-- Profit
-- Monthly performance
-- Regional performance
-- Product/category trends
-
-Used Excel-based data transformation and interactive visualization to convert transactional data into business insights.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 / BUSINESS INTELLIGENCE</strong><br />
+      <h3>🥇 The Beauty of Analysis</h3>
+      <p>An award-winning Nykaa e-commerce analytics project: 5,000 transactions explored across customers, products, discounts, returns, and profitability—turned into an interactive Excel dashboard and business recommendations.</p>
+      <p><a href="https://github.com/iqrakoradia/nykaa-ecommerce-sales-analytics">Explore the project ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 / FASHION × AI</strong><br />
+      <h3>👗 VogueVision</h3>
+      <p>An AI-powered fashion assistant concept bringing together virtual try-on, makeup shade matching, outfit discovery, and personalized style inspiration.</p>
+      <p><a href="https://github.com/iqrakoradia/VogueVision">Explore the project ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>03 / CUSTOMER ANALYTICS</strong><br />
+      <h3>◉ E-commerce Segmentation</h3>
+      <p>RFM analysis and K-Means clustering to explore customer groups, behavior, and revenue opportunities—with an interactive dashboard.</p>
+      <p><a href="https://github.com/iqrakoradia/Ecommerce-customer-segmentation">Explore the project ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <strong>04 / FINANCIAL ANALYTICS</strong><br />
+      <h3>↗ Indian Company Analytics</h3>
+      <p>An interactive look at company financial performance and risk, built to make complex business signals easier to explore.</p>
+      <p><a href="https://github.com/iqrakoradia/indian-company-financial-analytics">Explore the project ↗</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Python Data Analysis
+### ✧ My toolkit
 
-**Python | Pandas | Matplotlib**
+**Analytics & BI**　`Excel` `SQL` `Python` `Pandas` `Power BI` `Tableau` `EDA` `KPI reporting`<br />
+**Build & visualize**　`JavaScript` `React` `Node.js` `MongoDB` `REST APIs` `Matplotlib`<br />
+**Explore**　`Customer analytics` `Business intelligence` `Product strategy` `Computer vision`
 
-Data analysis projects focused on:
+### ✦ A little about me
 
-- Data cleaning
-- Exploratory Data Analysis
-- Data transformation
-- Statistical summaries
-- Visualization
-- Business insights
-
----
-
-### 🗄️ SQL Business Analysis
-
-**SQL**
-
-Business-focused SQL analysis using:
-
-- Joins
-- Aggregations
-- CASE statements
-- Subqueries
-- CTEs
-- Window functions
-- KPI calculations
+- 🏆 **1st place** — Data Analytics Capstone Competition, for *The Beauty of Analysis*.
+- 🎓 **B.Voc in Software Development**, Jai Hind College — **9.69 / 10 CGPA**.
+- 🧩 I like connecting the dots between **what the numbers say** and **what a team can do next**.
+- 🛠️ Background across software development, product planning, and business analysis.
 
 ---
 
-## 🛠️ Technical Skills
-
-### Data Analytics
-`Excel` `SQL` `Python` `Pandas` `Data Cleaning` `EDA`
-
-### Business Intelligence
-`Power BI` `Tableau` `Dashboard Development` `KPI Reporting`
-
-### Data Visualization
-`Excel Charts` `Pivot Charts` `Matplotlib` `Interactive Dashboards`
-
-### Programming & Technology
-`Python` `JavaScript` `React.js` `Node.js` `MongoDB` `REST APIs` `Git`
-
-### AI / Computer Vision
-`TensorFlow` `OpenCV` `MediaPipe`
-
-### Business & Strategy
-`Business Analysis` `Product Strategy` `Data-Driven Decision Making`
-`Problem Solving` `Business Intelligence`
-
----
-
-## 💼 Experience
-
-### Front End Developer — Anvis Digital Pvt. Ltd.
-**Nov 2025 – Present**
-
-Working across:
-
-- Strategy
-- Product planning
-- Business analysis
-- Technology
-
-### Tech Intern — Anvis Digital Pvt. Ltd.
-**May 2025 – Oct 2025**
-
-Worked on technology and product-focused initiatives.
-
-### Frontend Developer Intern — Udyam AI
-**Apr 2025 – May 2025**
-
-Worked on frontend development and web-based product experiences.
-
-### Data Analyst Intern — Ahmed Medical Store
-**May 2023**
-
-Worked with business data and analytical tasks.
-
----
-
-## 🎓 Education
-
-### Masters in Data Science anf Business Analytics
-**School of Applied Science | HSNC University**
-
-### B.Voc in Software Development
-**Jai Hind College | University of Mumbai**
-
-**CGPA: 9.69 / 10**
-
-Academic achievement:
-- 🥇 Ranked 1st in TY
-- 🥈 Ranked 2nd in SY
-
----
-
-## 📜 Certifications
-
-- NASSCOM Certified Junior Software Developer
-- NASSCOM Certified Web Developer
-- Data Analytics & Excel training
-
----
-
-## 🔍 What I Bring
-
-I combine **technical understanding + analytical thinking + business perspective**.
-
-My approach to analytics is:
-
-```text
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Exploratory Analysis
-   ↓
-KPI Development
-   ↓
-Visualization
-   ↓
-Business Insights
-   ↓
-Actionable Recommendations
-
+<div align="center">
+  <img src="./assets/iqra-footer.svg" alt="Turning data into direction — one good question at a time" width="100%" />
+  <br />
+  <sub>Thanks for stopping by. Have a project where data meets a real-world problem? <a href="https://github.com/iqrakoradia">Let’s connect on GitHub ↗</a></sub>
+</div>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="365" viewBox="0 0 1200 365" role="img" aria-labelledby="title desc">
+  <title id="title">Iqra Koradia — Data x Style</title>
+  <desc id="desc">An animated indigo and violet profile banner connecting fashion, data, and product thinking.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111022"/><stop offset=".52" stop-color="#19132d"/><stop offset="1" stop-color="#101729"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B28BFF"/><stop offset=".52" stop-color="#F6A5C0"/><stop offset="1" stop-color="#86E6D1"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#A77BFF" stop-opacity=".25"/><stop offset="1" stop-color="#A77BFF" stop-opacity="0"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="20"/></filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#D8CCFF" stroke-opacity=".055" stroke-width="1"/></pattern>
+    <clipPath id="clip"><rect x="0" y="0" width="1200" height="365" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="365" rx="26" fill="url(#bg)"/>
+    <rect width="1200" height="365" fill="url(#grid)"/>
+    <circle cx="1010" cy="146" r="185" fill="url(#halo)" filter="url(#soft)"/>
+    <circle cx="1050" cy="290" r="125" fill="#7AE0D0" opacity=".055" filter="url(#soft)"/>
+    <path d="M0 320 C250 288 330 354 550 320 S900 292 1200 325" fill="none" stroke="#C6B1FF" stroke-opacity=".11"/>
+    <path d="M0 333 C250 301 330 367 550 333 S900 305 1200 338" fill="none" stroke="#C6B1FF" stroke-opacity=".08"/>
+    <!-- Data signal line -->
+    <path d="M738 255 L820 255 L856 219 L897 219 L934 168 L980 168 L1020 125 L1060 125 L1093 87 L1160 87" fill="none" stroke="url(#glow)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 8" opacity=".78">
+      <animate attributeName="stroke-dashoffset" values="0;-60" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <g fill="#F4DDF0">
+      <circle cx="820" cy="255" r="3"/><circle cx="897" cy="219" r="3"/><circle cx="980" cy="168" r="3"/><circle cx="1060" cy="125" r="3"/><circle cx="1160" cy="87" r="3"/>
+      <circle cx="820" cy="255" r="3" opacity=".35"><animate attributeName="r" values="3;13;3" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="980" cy="168" r="3" opacity=".35"><animate attributeName="r" values="3;13;3" dur="3s" begin=".9s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="3s" begin=".9s" repeatCount="indefinite"/></circle>
+    </g>
+    <!-- Orbiting fashion/data motif -->
+    <g transform="translate(1000 190)">
+      <circle r="89" fill="none" stroke="#E6D8FF" stroke-opacity=".18" stroke-dasharray="2 8"/>
+      <circle r="60" fill="none" stroke="#E6D8FF" stroke-opacity=".13"/>
+      <ellipse rx="103" ry="35" fill="none" stroke="#E6D8FF" stroke-opacity=".2" transform="rotate(-32)"/>
+      <g>
+        <circle cx="0" cy="-89" r="5" fill="#F6A5C0"/><circle cx="97" cy="-22" r="4" fill="#86E6D1"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="26s" repeatCount="indefinite"/>
+      </g>
+      <path d="M-14 -17 C-13 -28 -5 -34 0 -34 C5 -34 13 -28 14 -17 L27 -7 L17 5 L12 0 L15 32 L-15 32 L-12 0 L-17 5 L-27 -7 Z" fill="url(#glow)" opacity=".88"/>
+      <path d="M-14 -17 Q0 -5 14 -17" fill="none" stroke="#201932" stroke-width="2" opacity=".7"/>
+      <circle cy="-44" r="2" fill="#FFF" opacity=".8"><animate attributeName="opacity" values=".15;1;.15" dur="2.8s" repeatCount="indefinite"/></circle>
+    </g>
+    <!-- Type -->
+    <rect x="64" y="50" width="155" height="30" rx="15" fill="#241D3A" stroke="#AD94E9" stroke-opacity=".45"/>
+    <circle cx="82" cy="65" r="4" fill="#8EE9D5"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="96" y="70" fill="#D4C4FF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">IQRA KORADIA</text>
+    <text x="62" y="164" fill="#FFF9FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="64" font-weight="750" letter-spacing="-2">DATA <tspan fill="#BCA0FF">×</tspan> STYLE</text>
+    <rect x="66" y="189" width="111" height="4" rx="2" fill="url(#glow)"><animate attributeName="width" values="42;111;74;111" dur="7s" repeatCount="indefinite"/></rect>
+    <text x="66" y="232" fill="#E4DDF1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="500">Turning signals into stories—and ideas into experiences.</text>
+    <text x="66" y="277" fill="#B8AECF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1.4">ANALYTICS  ·  BUSINESS INTELLIGENCE  ·  FASHION-TECH</text>
+    <text x="66" y="331" fill="#9188AA" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.8">DATA-DRIVEN. PRODUCT-MINDED. ALWAYS CURIOUS.</text>
+    <rect x="1" y="1" width="1198" height="363" rx="25" fill="none" stroke="#C2A7FF" stroke-opacity=".28"/>
+  </g>
+</svg>
