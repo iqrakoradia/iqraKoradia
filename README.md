@@ -3,9 +3,13 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/iqrakoradia?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-17142B?style=for-the-badge&labelColor=17142B&color=C9A7FF" alt="Explore projects" /></a>
+  <img src="./assets/iqra-typing.svg" alt="Data analyst, BI storyteller, fashion-tech builder" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/iqrakoradia?tab=repositories"><img src="./assets/iqra-badge-projects.svg" alt="Explore projects" height="48" /></a>
   &nbsp;
-  <a href="https://github.com/iqrakoradia"><img src="https://img.shields.io/badge/OPEN-TO-COLLABORATE-17142B?style=for-the-badge&labelColor=17142B&color=FF9BB7" alt="Open to collaborate" /></a>
+  <a href="https://github.com/iqrakoradia"><img src="./assets/iqra-badge-connect.svg" alt="Say hello on GitHub" height="48" /></a>
 </div>
 
 <br />
@@ -50,6 +54,16 @@ I’m a **data analyst and product-minded developer** who enjoys finding the sto
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+  <h3>↗ GitHub at a glance</h3>
+  <a href="https://github.com/iqrakoradia?tab=repositories"><img src="https://github-stats-extended.vercel.app/api?username=iqrakoradia&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=151326&amp;title_color=C9A7FF&amp;icon_color=FF9DB8&amp;text_color=EAE4F5" alt="Public GitHub statistics for Iqra Koradia" width="49%" /></a>
+  <a href="https://github.com/iqrakoradia?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=iqrakoradia&amp;layout=compact&amp;hide_border=true&amp;bg_color=151326&amp;title_color=C9A7FF&amp;text_color=EAE4F5" alt="Most-used languages in Iqra's public repositories" width="49%" /></a>
+  <br />
+  <sub>Live cards from public repositories · powered by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a></sub>
+</div>
 
 ---
 
